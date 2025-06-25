@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Output folders
+output/
+*.md
+conversion_errors.log
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg-info/
+*.egg
+
+desktop.ini
+
+# OneDrive temporary files
+~$*
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Pyre type checker
+.pyre/
